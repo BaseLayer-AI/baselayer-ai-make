@@ -1,6 +1,14 @@
 # The BaseLayer AI: make
 
-See [AI.md](AI.md)
+Usage:
+
+```
+nix flake metadata github:BaseLayer-AI/baselayer-ai-make
+```
+
+RTFM [make.txt](make.txt)
+
+[AI.md](AI.md)
 
 ```nix
 {
