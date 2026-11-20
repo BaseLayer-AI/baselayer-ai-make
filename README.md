@@ -1,6 +1,8 @@
-The BaseLayer AI: make
+# The BaseLayer AI: make
 
-```
+See [AI.md](AI.md)
+
+```nix
 {
   description = "The BaseLayer AI: make";
 
