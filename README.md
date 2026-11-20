@@ -3,7 +3,11 @@
 Usage:
 
 ```
-nix flake metadata github:BaseLayer-AI/baselayer-ai-make
+nix run github:BaseLayer-AI/baselayer-ai-make
+```
+
+```
+nix run github:BaseLayer-AI/baselayer-ai-make#RTFM
 ```
 
 RTFM [make.txt](make.txt)
